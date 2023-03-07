@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+/*
+Paleta de cores:
+cor1: #2A7A5E
+cor2: #A0FBDB
+cor3: #54FABF
+cor4: #4E7A6B
+cor5: #44C799
+*/
+:root {
+    --cor1: #2A7A5E;
+    --cor2: #A0FBDB;
+    --cor3: #54FABF;
+    --cor4: #4E7A6B;
+    --cor5: #44C799;
+}
+
